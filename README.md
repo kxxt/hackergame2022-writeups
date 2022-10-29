@@ -60,6 +60,7 @@
 | - | - | - |
 | [mcfx](players/mcfx/wp.md) | 总排名第二名 | 除壹...壹字节？和 evilCallback 以外的全部题目 |
 | [huggy](https://blog.huggy.moe/posts/2022/14-ustclug-ctf-writeup/) | 总排名第112名 |签到、猫咪问答喵、家目录里的秘密、HeiLang、Xcaptcha、旅行照片2.0、LaTeX 机器人、Flag 的痕迹、安全的在线测评、线路板、Flag 自动机、微积分计算小练习、惜字如金、光与影、片上系统、传达不到的文件 |
+|[kxxt](https://www.kxxt.dev/blog/my-first-ctf-hackergame-2022/) | 总排名第34名 | 签到、猫咪问答喵、家目录里的秘密、HeiLang、Xcaptcha、旅行照片2.0(照片分析)、猜数字、LaTeX 机器人、Flag 的痕迹、安全的在线测评、线路板、Flag 自动机、微积分计算小练习、杯窗鹅影、二次元神经网络、光与影、链上记忆大师(记忆练习)、片上系统(引导扇区)、传达不到的文件、看不到的彼方、量子藏宝图、企鹅拼盘(这么简单我闭眼都可以, 大力当然出奇迹啦~) |
 ## 其他资源
 
 [Hackergame 2022 幕后工作人员](https://hack.lug.ustc.edu.cn/credits/)
